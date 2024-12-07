@@ -1,0 +1,18 @@
+.topBar{
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.homeProfileGallery{
+    margin-left: 1%;
+    display: flex;
+    
+    gap: 10%;
+}
+
+.layoutButtons{
+    font-size: 22px;
+    cursor: pointer;
+}
